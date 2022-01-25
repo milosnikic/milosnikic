@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miloš Nikić</h1>
 <h3 align="center">Software engineer from Serbia with 2 years of professional experience in application design, development and maintenance</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milosnikic&label=Profile%20views&color=0e75b6&style=flat" alt="milosnikic" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milosnikic" alt="milosnikic" /></a> </p>
-
 - 🔭 I’m currently working on [FootballApp](https://github.com/milosnikic/FootballApp)
 
 - 🌱 I’m currently learning **about microservices, Docker and Kubernetes**
@@ -12,6 +8,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/milosnikic](https://github.com/milosnikic)
 
 - 📫 How to reach me **milos.nikic@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milosnikic&label=Profile%20views&color=0e75b6&style=flat" alt="milosnikic" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milosnikic" alt="milosnikic" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
