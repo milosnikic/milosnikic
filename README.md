@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miloš Nikić</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Miloš Nikić</h1>
 <h3 align="center">Software engineer from Serbia with 2 years of professional experience in application design, development and maintenance</h3>
 
 - 🔭 I’m currently working on [FootballApp](https://github.com/milosnikic/FootballApp)
