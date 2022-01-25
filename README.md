@@ -183,7 +183,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milosnikic&column=7&margin-w=15" alt="milosnikic" /></a> </p>
 
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosnikic&show_icons=true&locale=en&layout=compact" alt="milosnikic" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosnikic&show_icons=true&locale=en&layout=compact" alt="milosnikic" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milosnikic&show_icons=true&locale=en" alt="milosnikic" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milosnikic&show_icons=true&locale=en" alt="milosnikic" /></p>
 
