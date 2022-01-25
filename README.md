@@ -1,11 +1,16 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Miloš Nikić</h1>
-<h3 align="center">Software engineer at <em><a href="https://www.tnation.eu/">TNation</a></em> from Serbia with 2 years of professional experience in application design, development and maintenance</h3>
-
+<div align="center">
+  
 [![Twitter Follow](https://img.shields.io/twitter/follow/exr1g?label=Follow)](https://twitter.com/intent/follow?screen_name=exr1g)
 [![Linkedin: milos-nikic](https://img.shields.io/badge/-milosnikic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milo%C5%A1-niki%C4%87-a14a56160/)](https://www.linkedin.com/in/milo%C5%A1-niki%C4%87-a14a56160/)
 ![GitHub followers](https://img.shields.io/github/followers/milosnikic?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=milosnikic&label=Profile%20views&color=0e75b6&style=flat)
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%207%20mins-blue)
+  
+</div>
+
+<h4 align="center">Software engineer at <em><a href="https://www.tnation.eu/">TNation</a></em> from Serbia with 2 years of professional experience in application design, development and maintenance</h4>
+
+<h3 align="left">💬 Personal Information:</h3>
 
 - 🔭 I’m currently working on [FootballApp](https://github.com/milosnikic/FootballApp)
 
@@ -16,7 +21,7 @@
 - 📫 How to reach me **milos.nikic@gmail.com**
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🌎 Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
@@ -178,11 +183,14 @@
 
 
 ---
-### Github Trophies:
+<h3 align="left">🏆 Github Trophies:</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milosnikic&column=7&margin-w=15" alt="milosnikic" /></a> </p>
 
+---
 
+
+<h3 align="left">📈 Github Statistics: </h3>
 <p>
 <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosnikic&show_icons=true&locale=en&layout=compact" alt="milosnikic" />
 <img width="450px" align="right" src="https://github-readme-stats.vercel.app/api?username=milosnikic&show_icons=true&locale=en" alt="milosnikic" />
