@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milosnikic&label=Profile%20views&color=0e75b6&style=flat" alt="milosnikic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milosnikic" alt="milosnikic" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milosnikic&column=7" alt="milosnikic" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
