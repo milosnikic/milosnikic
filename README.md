@@ -133,7 +133,7 @@
   </a>
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
       alt="django"
       width="40"
       height="40"
