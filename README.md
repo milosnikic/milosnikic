@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Miloš Nikić</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm Miloš Nikić</h1>
 <div align="center">
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/exr1g?label=Follow)](https://twitter.com/intent/follow?screen_name=exr1g)
