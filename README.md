@@ -12,7 +12,7 @@
 
 <h3 align="left">💬 Personal Information:</h3>
 
-- 🔭 I’m currently working on [FootballApp](https://github.com/milosnikic/FootballApp)
+- 🔭 I’m currently working on [FootballApp](https://github.com/milosnikic/FootballApp), [Cerberus](https://github.com/milosnikic/cerberus)
 
 - 🌱 I’m currently learning **about microservices, Docker and Kubernetes**
 
