@@ -11,6 +11,7 @@
 <h4 align="center">Software engineer at <em><a href="https://vortexwe.com/">Vortex West</a></em> from Serbia with 3 years of professional experience in application design, development and maintenance</h4>
 
 <h3 align="left">💬 Personal Information:</h3>
+
 - 💻 Visit my [personal portfolio](https://milosnikic.github.io/)
 
 - 🔭 I’m currently working on [FootballApp](https://github.com/milosnikic/FootballApp), [Cerberus](https://github.com/milosnikic/cerberus)
