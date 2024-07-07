@@ -14,7 +14,7 @@
 
 - 💻 Visit my [personal portfolio](https://milosnikic.github.io/)
 
-- 🔭 I’m currently working on [FootballApp](https://github.com/milosnikic/FootballApp), [Cerberus](https://github.com/milosnikic/cerberus)
+- 🔭 I’m currently working on [personal portfolio](https://milosnikic.github.io/)
 
 - 🌱 I’m currently learning **about microservices, Docker and Kubernetes**
 
