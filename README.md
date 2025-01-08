@@ -8,7 +8,7 @@
   
 </div>
 
-<h4 align="center">Software engineer at <em><a href="https://vortexwe.com/">Vortex West</a></em> from Serbia with 4 years of professional experience in application design, development and maintenance</h4>
+<h4 align="center">Software engineer at <em><a href="https://vortexwe.com/">Vortex West</a></em> from Serbia with 5 years of professional experience in application design, development and maintenance</h4>
 
 <h3 align="left">💬 Personal Information:</h3>
 
