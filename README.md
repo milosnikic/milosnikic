@@ -1,202 +1,104 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm Miloš Nikić</h1>
-<div align="center">
-  
-[![Twitter Follow](https://img.shields.io/twitter/follow/exr1g?label=Follow)](https://twitter.com/intent/follow?screen_name=exr1g)
-[![Linkedin: milos-nikic](https://img.shields.io/badge/-milosnikic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milo%C5%A1-niki%C4%87-a14a56160/)](https://www.linkedin.com/in/milo%C5%A1-niki%C4%87-a14a56160/)
-![GitHub followers](https://img.shields.io/github/followers/milosnikic?label=Follow&style=social)
-![](https://komarev.com/ghpvc/?username=milosnikic&label=Profile%20views&color=0e75b6&style=flat)
-  
-</div>
-
-<h4 align="center">Software engineer at <em><a href="https://vortexwe.com/">Vortex West</a></em> from Serbia with 5 years of professional experience in application design, development and maintenance</h4>
-
-<h3 align="left">💬 Personal Information:</h3>
-
-- 💻 Visit my [personal portfolio](https://milosnikic.github.io/)
-
-- 🔭 I’m currently working on [personal portfolio](https://milosnikic.github.io/)
-
-- 🌱 I’m currently learning **about microservices, Docker and Kubernetes**
-
-- 👨‍💻 All of my projects are available at [https://github.com/milosnikic](https://github.com/milosnikic)
-
-- 📫 How to reach me **milos.nikic@gmail.com**
-
----
-<h3 align="left">🌎 Languages and Tools:</h3>
+<h1 align="center">Miloš Nikić</h1>
 <p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-      alt="rabbitMQ"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
+Backend Software Engineer · Co-Founder · Scalable Systems · Cloud & API Architect
 </p>
 
-
----
-<h3 align="left">🏆 Github Trophies:</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milosnikic&column=7&margin-w=15" alt="milosnikic" /></a> </p>
+<p align="center">
+<a href="https://metastack.gg">metastack.gg</a> ·
+<a href="https://www.linkedin.com/in/milo%C5%A1-niki%C4%87-a14a56160/">LinkedIn</a> ·
+<a href="https://milosnikic.github.io/">Portfolio</a> ·
+<a href="mailto:milos.nikic@gmail.com">Email</a>
+</p>
 
 ---
 
+## 👨‍💻 About Me
 
-<h3 align="left">📈 Github Statistics: </h3>
-<p>
-<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosnikic&show_icons=true&locale=en&layout=compact" alt="milosnikic" />
-<img width="450px" align="right" src="https://github-readme-stats.vercel.app/api?username=milosnikic&show_icons=true&locale=en" alt="milosnikic" />
-</p>
+Backend engineer and co-founder with extensive experience building reliable production systems. I focus on **API design, distributed backend architectures, cloud-native deployments, and clean, maintainable code**.
 
+I’m deeply involved in the full lifecycle of backend systems — from architectural decisions and infrastructure automation to delivering business value on systems used by real communities.
 
+---
+<h2>
+  <img src="https://metastack.gg/email-logo.png" height="38" style="vertical-align: middle;" />
+</h2>
 
+As co-founder and core backend engineer at **Metastack**, I helped build an esports SaaS platform used by competitive and casual players around the world. Metastack provides a unified place to create, organize, and explore strategic game knowledge for Counter-Strike, helping users improve and collaborate more effectively. :contentReference[oaicite:1]{index=1}
+
+Key contributions:
+- Backend architecture and API design
+- Feature development with Django & Django REST Framework
+- PostgreSQL schema design and optimization
+- Event-driven workflows and message-based communication
+- Scalable deployments and automated CI/CD
+- Real-time interaction and collaboration features
+
+---
+
+## 🧠 Technical Expertise
+
+### Architecture & Systems
+- Scalable backend and microservice-style systems
+- Event-driven patterns and message brokers (RabbitMQ)
+- API design (REST & GraphQL), versioning, and reliability
+- Real-time systems (WebSockets)
+
+### Backend Development
+- **Python (Django, Django REST Framework)**
+- **C# / .NET**
+- Authentication (JWT, RBAC) and secure access patterns
+- Background jobs and async processing
+
+### Databases & Storage
+- PostgreSQL (schema strategy, migrations, performance)
+- Microsoft SQL Server
+- MongoDB
+- Query tuning, indexing, and optimization
+
+### Cloud & DevOps
+- Docker & containerized environments
+- Kubernetes orchestration
+- CI/CD pipelines (Jenkins)
+- AWS deployments and environment separation
+
+### Frontend
+- Angular
+- TypeScript
+- GraphQL integrations
+
+### Systems & Embedded
+- Systems programming (C, C++)
+- Arduino & embedded experimentation
+- Linux tooling and automation
+
+---
+
+## 🧪 Engineering Principles
+
+- Clean architecture & SOLID principles
+- Testable, maintainable systems
+- Observability & monitoring
+- Infrastructure automation & DevOps
+- Continuous improvement and refactoring
+
+---
+
+## 📈 GitHub Projects
+
+My GitHub showcases work spanning:
+- Backend-driven services and APIs
+- Infrastructure and cloud experiments
+- Full-stack and frontend integrations
+- Systems and embedded projects
+
+Explore repositories to see demonstrated problem solving and applied engineering.
+
+---
+
+## 🌍 Location
+
+Serbia
+
+---
+
+> I build systems that solve real problems — for real users, with real impact.
