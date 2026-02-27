@@ -14,7 +14,7 @@ Backend Software Engineer · Co-Founder · Scalable Systems · Cloud & API Archi
 
 ## 👨‍💻 About Me
 
-Backend engineer and co-founder with extensive experience building reliable production systems. I focus on **API design, distributed backend architectures, cloud-native deployments, and clean, maintainable code**.
+Technical co-founder responsible for backend, infrastructure, and production scalability with extensive experience building reliable production systems. I focus on **API design, distributed backend architectures, cloud-native deployments, and clean, maintainable code**.
 
 I’m deeply involved in the full lifecycle of backend systems — from architectural decisions and infrastructure automation to delivering business value on systems used by real communities.
 
@@ -23,15 +23,19 @@ I’m deeply involved in the full lifecycle of backend systems — from architec
   <a href="https://metastack.gg" target="_blank"><img src="https://metastack.gg/email-logo.png" height="38" style="vertical-align: middle;" /></a>
 </h2>
 
-As co-founder and core backend engineer at **Metastack**, I helped build an esports SaaS platform used by competitive and casual players around the world. Metastack provides a unified place to create, organize, and explore strategic game knowledge for Counter-Strike, helping users improve and collaborate more effectively. :contentReference[oaicite:1]{index=1}
+As co-founder and core backend engineer at **Metastack**, I co-founded and architected an esports SaaS platform used by competitive and casual players around the world. Metastack provides a unified place to create, organize, and explore strategic game knowledge for Counter-Strike, helping users improve and collaborate more effectively.
 
 Key contributions:
-- Backend architecture and API design
-- Feature development with Django & Django REST Framework
-- PostgreSQL schema design and optimization
-- Event-driven workflows and message-based communication
-- Scalable deployments and automated CI/CD
-- Real-time interaction and collaboration features
+- Backend architecture and API design (Django & DRF)
+- PostgreSQL schema design, indexing, and performance tuning
+- Multi-tenant SaaS architecture and team-based subscription model
+- Infrastructure design on AWS (staging & production environments)
+- Containerized deployments with Docker and CI/CD automation (Jenkins)
+- Scalable deployment strategy using commit-based releases
+- Event-driven communication (RabbitMQ)
+- Real-time collaboration features using WebSockets
+- Email infrastructure integration (AWS SES)
+- Continuous refactoring and system scalability improvements
 
 ---
 
