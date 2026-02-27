@@ -92,6 +92,17 @@ Key contributions:
 
 ---
 
+## 🌐 Open Source Contributions
+
+I’ve contributed to several widely-used open-source projects, improving code quality, adding features, fixing bugs and documentation:  
+
+- **JenkinsCI**
+- **Oh My Zsh**
+- **Django CMS**
+- **django-softdelete**
+
+---
+
 ## 📈 GitHub Projects
 
 My GitHub showcases work spanning:  
