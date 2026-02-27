@@ -20,7 +20,7 @@ I’m deeply involved in the full lifecycle of backend systems — from architec
 
 ---
 <h2>
-  <img src="https://metastack.gg/email-logo.png" height="38" style="vertical-align: middle;" />
+  <a href="https://metastack.gg" target="_blank"><img src="https://metastack.gg/email-logo.png" height="38" style="vertical-align: middle;" /></a>
 </h2>
 
 As co-founder and core backend engineer at **Metastack**, I helped build an esports SaaS platform used by competitive and casual players around the world. Metastack provides a unified place to create, organize, and explore strategic game knowledge for Counter-Strike, helping users improve and collaborate more effectively. :contentReference[oaicite:1]{index=1}
